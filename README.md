@@ -19,11 +19,11 @@ This repository serves as the official public archive of the manuscript.
 
 ---
 
-## Repository Structure
+## Manuscript
 
-[Introduction to Programming and Python](introduction-to-programming-and-python.md)
+Access the manuscript:
 
-
+- [Manuscript Index](manuscript/index.md)
 ---
 
 ## Author
